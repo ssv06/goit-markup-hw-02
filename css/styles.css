@@ -219,3 +219,7 @@ body {
   line-height: 1.87;
   letter-spacing: 0.03em;
 }
+
+.footer-address {
+  font-style: normal;
+}
